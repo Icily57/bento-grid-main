@@ -27,12 +27,12 @@ body {
     font-size: 18px;
   }
   
-  .card1 {
+  .card2 {
     background: hsl(256, 67%, 59%);
     color: white;
   }
   
-  .card7 {
+  .card1 {
     background: hsl(254, 88%, 90%);
     color: hsl(0, 0%, 7%);
   }
